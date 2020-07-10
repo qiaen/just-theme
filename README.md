@@ -36,3 +36,5 @@ https://github.com/qiaen/just-theme.git
 > 注意：颜色需是rgb格式，形如[223, 78, 90],否则报错，可以到网上找下转rgb的网站，比如https://www.sioe.cn/yingyong/yanse-rgb-16/
 
 ![对颜色格式有要求](https://user-gold-cdn.xitu.io/2020/7/9/173336a44407772f?w=1390&h=634&f=png&s=129524)
+
+如果不知道怎么安装主题，点这里https://juejin.im/post/5f06debb5188252e5c576efd 直接翻到第三步，浏览器更多工具，拓展程序，打开开发者模式，加载已解压的拓展程序
